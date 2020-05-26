@@ -9,12 +9,12 @@
 
 <style>
 a {
-color:black
+color:black;
 text-decoration:none;
 }
 
 p {
-color:black
+color:black;
 }
 </style>
 
