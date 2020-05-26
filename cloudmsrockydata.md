@@ -5,7 +5,7 @@
         <title>New webpage</title>
     </head>
     <body>
-<p>cloud.msrocky.data</p> <a href="https://github.com/cloud-msrocky/cloud-msrocky.github.io"></a>
+<p>cloud.msrocky.data</p> <a href="https://github.com/cloud-msrocky/cloud-msrocky.github.io">data.main</a>
 
 <style>
 a {
